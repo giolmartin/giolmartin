@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I've been learning to code for the past two years, started with Java, but found a love at first sight with Python and Js. I'm currently working on upping my Node, React and GoodCodingPractice skills.
+I've been learning to code for the past two years, started with Java, but found love at first sight with Python and Js. I'm currently working on upping my Node, React and GoodCodingPractice skills.
 
 * 🌍  I'm based in Somewhere near the sea
 * ✉️  You can contact me at [giomar.developer@gmail.com](mailto:giomar.developer@gmail.com)
