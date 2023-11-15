@@ -8,7 +8,7 @@ I've been learning to code for the past two years, started with Java, but found 
 
 * 🌍  I'm based in Somewhere near the sea
 * ✉️  You can contact me at [giomar.developer@gmail.com](mailto:giomar.developer@gmail.com)
-* 🧠  I'm learning Node and React.
+* 🧠  Fluent in NodeJs and React.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm always down to go scuba diving :)
 
